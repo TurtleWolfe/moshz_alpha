@@ -29,6 +29,8 @@ expo install react-native-elements
 # expo install expo-font
 # expo install react-native-elements expo-font
 expo install expo-app-loading
+
+npm install @react-native-community/hooks
 ```
 
 ## [The Ultimate React Native Series:](https://codewithmosh.com/courses/887220/ 'Mosh HameDani')
@@ -53,9 +55,14 @@ onPress={handlePress}
 
 ### [Layout #2 Dimensions](https://codewithmosh.com/courses/887220/lectures/16617488 'Dimensions.get("screen")')
 
-[Layout #3 Detecting Orentation Changes](https://www.google.com 'useDimensions')  
-[Layout #4 FlexBox](https://www.google.com 'Alt Shift Down Arrow 2:00')  
-[Layout #5 FlexBox -Direction](https://www.google.com 'Control Space')
+[Layout #3 Detecting Orentation Changes](https://www.google.com 'useDimensions & useDeviceOrentation')  
+`CNTRL or CMND` (left & right arrows)  
+[react-native-community/hooks](https://github.com/react-native-community/hooks#usecameraroll '2:00 hooks, useCamerRoll')  
+`npm install @react-native-community/hooks`  
+[Layout #4 FlexBox](https://www.google.com 'Alt Shift Down Arrow to copy code 2:00')  
+[Layout #5 FlexBox -Direction](https://www.google.com '1:23 Control Space')  
+[Layout #6 Flexbox-justifyContent](https://codewithmosh.com/courses/887220/lectures/16617484 '1:43 justifyContent: "space-evenly"')  
+[Layout #7 Flexbox-alignContent](https://codewithmosh.com/courses/887220/lectures/16617480 '2:33 alignContent: "center"')
 
 ### [Styling #5 Styling Texts](https://codewithmosh.com/courses/887220/lectures/16617561 'expo install expo-font (OTF)')
 
