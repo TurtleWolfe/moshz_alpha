@@ -5,14 +5,14 @@ export default function WelcomeScreen() {
   return (
     <ImageBackground
       style={styles.background}
-      source={require('../assets/10- Layout- Supplementary Materials/background.jpg')}
+      source={require('../assets/Supplementary/background.jpg')}
     >
       <View
         style={styles.logoContainer}
       >
         <Image
           style={styles.logo}
-          source={require("../assets/10- Layout- Supplementary Materials/logo-red.png")} />
+          source={require("../assets/Supplementary/logo-red.png")} />
         <Text
           style={styles.welcomeText}
         >

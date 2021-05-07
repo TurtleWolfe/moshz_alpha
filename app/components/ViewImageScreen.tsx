@@ -1,20 +1,25 @@
 import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import { Image, StyleSheet, Text, View } from 'react-native'
 
-export default function ViewImageScreen() {
+export default function ViewImageScreen(props) {
   return (
-    <View>
-      <Text style={styles.imageText}>
-        View Image Screen
-      </Text>
+    <View style={styles.container}>
+      <Image
+        resizeMode="contain"
+        source={require("../assets/Supplementary/chair.jpg")}
+        style={styles.image}
+      />
     </View>
-  )
+  );
 }
 
 const styles = StyleSheet.create({
-  imageText: {
-    fontSize: 20,
-    fontWeight: 'bold',
-    color: 'white'
+  container: {
+    backgroundColor: "#000",
+    flex: 1,
   },
-})
+  image: {
+    width: '100%',
+    height: '100%',
+  },
+});
