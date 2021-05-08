@@ -66,7 +66,10 @@ onPress={handlePress}
 
 ### [Styling #5 Styling Texts](https://codewithmosh.com/courses/887220/lectures/16617561 'expo install expo-font (OTF)')
 
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component  imrn  2:00 {children} rnss - stylesheet')  
+[https://github.com/react-native-training/react-native-fonts](https://github.com/react-native-training/react-native-fonts 'List of system fonts on iOS and Android:')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component  imrn  2:00 {children} rnss - rn-stylesheet')  
+[https://icons.expo.fyi/](https://icons.expo.fyi/ 'expo.github.io/vector-icons/')  
+[Styling #8 Platform-Specific](https://codewithmosh.com/courses/887220/lectures/16617555 '...Platform (spread  2:00)')  
 [Styling #13 Card Component](https://codewithmosh.com/courses/887220/lectures/16617550 'rnsf 4:00 {destructuring} 6:00 {require} 8:00 {merge style props} 9:30 {overflow}')  
 [Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
 [Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
