@@ -71,7 +71,7 @@ onPress={handlePress}
 [https://icons.expo.fyi/](https://icons.expo.fyi/ 'expo.github.io/vector-icons/')  
 [Styling #8 Platform-Specific](https://codewithmosh.com/courses/887220/lectures/16617555 '...Platform (spread  2:00)')  
 [Styling #12 Improving the Welcome Screen](https://codewithmosh.com/courses/887220/lectures/16617564 '4:00 style={[styles.button, { backgroundColor: colors[color] }]}')  
-[Styling #13 Card Component](https://codewithmosh.com/courses/887220/lectures/16617550 'rnsf 4:00 {destructuring} 6:00 {require} 8:00 {merge style props} 9:30 {overflow}')  
+[Styling #13 Card Component](https://codewithmosh.com/courses/887220/lectures/16617550 'rnsf 4:00 {destructuring} 6:00 {require} 8:00 style={[styles.text, style]} 9:30 {overflow}')  
 [Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
 [Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
 [Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
